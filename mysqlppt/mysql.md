@@ -67,7 +67,7 @@ mysql> show warnings;</code></pre>
     color: blue;
 }
 </style>
-<a href="https://github.com/freedomopencoder/mysqlppt/blob/master/mysqlexplain.ppt" target="_blank"><span id="css-blue">执行计划详解（点击下载）</span></a>
+<a href="https://github.com/freedomopencoder/mysqlppt/blob/master/mysqlppt/mysqlexplain.ppt" target="_blank"><span id="css-blue">执行计划详解（点击下载）</span></a>
 
 <pre><code class="sql">mysql> explain select * from demo_order;
 +----+-------------+------------+------+---------------+------+---------+------+------+-------+
